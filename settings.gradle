@@ -1,0 +1,2 @@
+rootProject.name = "DIY Med App"
+include ':app'
